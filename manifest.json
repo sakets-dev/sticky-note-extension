@@ -1,12 +1,11 @@
 {
-    "manifest_version": 3,
-    "name": "Sticky Note",
-    "version": "1.0",
-    "description": "A draggable sticky note with resizable font.",
-    "action": {
-      "default_popup": "popup.html",
-      "default_icon": "icon.png"
-    },
-    "permissions": ["storage"]
-  }
-  
+  "manifest_version": 3,
+  "name": "Sticky Note",
+  "version": "1.0",
+  "description": "A simple bigger sticky note for taking notes.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["storage"]
+}
