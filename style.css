@@ -14,4 +14,7 @@ html, body {
   padding: 12px;
   box-sizing: border-box;
   white-space: pre-wrap;
+
+  /* NEW: lock size and allow scrolling */
+  overflow-y: auto;   
 }
